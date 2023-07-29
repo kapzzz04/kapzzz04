@@ -1,0 +1,10 @@
+Memulai hal pendewasaan
+- 2023 semester 1 kelas 11
+ ^ bisa bikin web menggunakan framwork css
+ ^ bisa bahasa inggrs
+ ^ performa futsal bagus
+ ^ node.js 
+- awal 2024 S2
+ ^ bisa react js
+ ^ webpack
+ ^ next.js
